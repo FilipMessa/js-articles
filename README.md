@@ -1,4 +1,4 @@
-# js-articles
+# Learning
 
 ## Babel
 
@@ -13,6 +13,10 @@
 - [Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/)
 
 - [Sorting Algorithms with Javascript (Part 1)](https://dev.to/wangonya/sorting-algorithms-with-javascript-part-1-4aca)
+
+### Algorithms summary
+
+<img src="./AlgorithmsSummary.png" alt="Big-Oh" width="60%"/>
 
 ### Big-Oh
 
