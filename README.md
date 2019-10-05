@@ -17,3 +17,5 @@
 ### Big-Oh
 
 <img src="./bigO.png" alt="Big-Oh" width="60%"/>
+
+[What is n log n means practically?](https://www.codeproject.com/Questions/500926/Whatplusisplusnpluslogplusnplusmeanspluspracticall)
