@@ -33,7 +33,13 @@
 [Turning `class App extends React.Component` into a coding lesson](https://dev.to/carlmungazi/turning-class-app-extends-react-component-into-a-coding-lesson-3mod)
 [Part 1/3 - Beginners guide to Custom React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
 
+## React
+
+[React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+
 ## General
 
 [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 [Giving better code reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
+
+- [For N possible states, there are N×(N–1) possible transitions between them](https://overreacted.io/the-elements-of-ui-engineering/)
