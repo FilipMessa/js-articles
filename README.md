@@ -29,6 +29,9 @@
 
 [Event Bubbling in Javascript](https://medium.com/@svsh227/event-bubbling-in-javascript-a-better-understanding-9c7e0096a7e9)
 [Event Delegation in JavaScript](https://medium.com/better-programming/event-delegation-in-javascript-boost-your-app-performance-5f10f25cec96)
+[Learning JavaScript by building a UI framework from scratch](https://dev.to/carlmungazi/learning-javascript-by-building-a-ui-framework-from-scratch-1767)
+[Turning `class App extends React.Component` into a coding lesson](https://dev.to/carlmungazi/turning-class-app-extends-react-component-into-a-coding-lesson-3mod)
+[Part 1/3 - Beginners guide to Custom React Renderers. How to build your own renderer from scratch?](https://blog.atulr.com/react-custom-renderer-1/)
 
 ## General
 
