@@ -29,3 +29,8 @@
 
 [Event Bubbling in Javascript](https://medium.com/@svsh227/event-bubbling-in-javascript-a-better-understanding-9c7e0096a7e9)
 [Event Delegation in JavaScript](https://medium.com/better-programming/event-delegation-in-javascript-boost-your-app-performance-5f10f25cec96)
+
+## General
+
+[How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+[Giving better code reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
